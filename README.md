@@ -1,6 +1,6 @@
 # Hi there, I'm Paola! 👋
 
-## 👨‍💻 About Me
+## 💻 About Me
 
 I'm a passionate developer who loves to learn and build new things. Welcome to my GitHub profile!
 
